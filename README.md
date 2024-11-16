@@ -1,7 +1,5 @@
 # ICPC2024
 
-Creating an ICPC notebook is an excellent idea for competitive programming. Here's a concise notebook covering common algorithms, problems, and a cheatsheet for ICPC:
-
 ## Data Structures
 
 **Arrays and Vectors**
