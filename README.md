@@ -1,6 +1,6 @@
 # ICPC2024
 
-## Data Structures
+## Data Structure
 
 **Arrays and Vectors**
 - Use `vector<int> v` for dynamic arrays
